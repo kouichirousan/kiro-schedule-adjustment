@@ -1,0 +1,2 @@
+# kiro-schedule-adjustment
+kiroを使ってGoogleカレンダーとAPI連携させたアプリを作りたい
